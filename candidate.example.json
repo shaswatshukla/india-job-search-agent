@@ -1,0 +1,69 @@
+{
+  "candidate_name": null,
+  "workspace": ".",
+  "timezone": "Asia/Kolkata",
+  "boards": [
+    "LinkedIn",
+    "Indeed",
+    "Foundit",
+    "Shine",
+    "Instahyre",
+    "Cutshort",
+    "Wellfound"
+  ],
+  "master_resume_path": "resume/master-resume.txt",
+  "target_roles": [
+    "Business Analyst",
+    "Retail Business Analyst",
+    "Supply Chain Business Analyst",
+    "BI Business Analyst"
+  ],
+  "experience_years": null,
+  "preferred_locations": [
+    "Anywhere in India"
+  ],
+  "remote_preference": "Include remote roles eligible for candidates in India",
+  "minimum_salary_inr_lpa": null,
+  "notice_period_days": null,
+  "daily_application_limit": 20,
+  "minimum_match_score": 75,
+  "suggested_match_score": 75,
+  "report_email": null,
+  "connected_email": null,
+  "report_time_ist": "19:00",
+  "daily_target_minimum": 20,
+  "prioritize_quality_over_quota": true,
+  "daily_limit_can_increase_after_preferences_confirmed": true,
+  "expected_salary_inr_lpa": null,
+  "monthly_budget_inr": null,
+  "setup_state": "configure_locally_before_running",
+  "work_eligible_india": null,
+  "citizenship": null,
+  "last_ctc": null,
+  "budget_status": "undecided",
+  "willing_to_relocate": null,
+  "relocation_scope": "Anywhere in India",
+  "paid_ai_enabled": false,
+  "smartrecruiters_companies": [
+    "BoschGroup",
+    "WNSGlobalServices144",
+    "NielsenIQ",
+    "SopraSteria1",
+    "Acumatica",
+    "NECSWS",
+    "Visa"
+  ],
+  "include_remotive": true,
+  "max_posting_age_days": 90,
+  "greenhouse_boards": [
+    "episodesix",
+    "ethoslife",
+    "zinnia",
+    "alphasense",
+    "razorpaysoftwareprivatelimited"
+  ],
+  "lever_companies": [
+    "dnb",
+    "drivetrain"
+  ]
+}
